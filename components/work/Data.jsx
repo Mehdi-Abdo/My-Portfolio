@@ -9,30 +9,11 @@ export const projectsData = [
 		image: "",
 		title: 'Weather ',
 		category: 'app',
-		demoUrl: 'https://tic-tac-toe-project-x-o.vercel.app/',
-		sourceUrl: 'https://github.com/soumyajiitt/tic-tac-toe',
+		demoUrl: 'https://my-portfolio-zeta-sooty.vercel.app/',
+		sourceUrl: 'https://github.com/Mehdi-Abdo/My-Portfolio.git',
 		status: 'completed',
 	},
 
-	{
-		id: 2,
-		image: Work2,
-		title: 'RepoQuest',
-		category: 'app',
-		demoUrl: 'https://repoquest.vercel.app/',
-		sourceUrl: 'https://github.com/soumyajiitt/RepoQuest',
-		status: 'completed',
-	},
-	{
-		id: 3,
-		image: Work3,
-		title: 'Portfolio Website',
-		category: 'web',
-		demoUrl: 'https://soumyajitbasak.netlify.app/',
-		sourceUrl: 'https://github.com/soumyajiitt/Portfolio',
-		status: 'completed',
-	},
-	
 ];
 
 export const projectsNav = [
