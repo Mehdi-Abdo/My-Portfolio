@@ -5,11 +5,11 @@ import Work3 from '../../src/assets/Work3.png';
 
 export const projectsData = [
 	{
-		id: 1,
+		id: Work3,
 		image: "",
 		title: 'Weather ',
 		category: 'app',
-		demoUrl: 'https://my-portfolio-zeta-sooty.vercel.app/',
+		demoUrl: 'https://myportfolio2-eta.vercel.app/',
 		sourceUrl: 'https://github.com/Mehdi-Abdo/My-Portfolio.git',
 		status: 'completed',
 	},
