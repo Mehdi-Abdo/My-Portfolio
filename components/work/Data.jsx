@@ -1,13 +1,11 @@
-import Work1 from '../../src/assets/Work1.png';
-import Work2 from '../../src/assets/Work2.png';
-import Work3 from '../../src/assets/Work3.png';
+import Work1 from '../../src/assets/portfolio.jpg'
 
 
 export const projectsData = [
 	{
-		id: Work3,
-		image: "",
-		title: 'Weather ',
+		id: Work1,
+		image: Work1,
+		title: 'My Porfolio ',
 		category: 'app',
 		demoUrl: 'https://myportfolio2-eta.vercel.app/',
 		sourceUrl: 'https://github.com/Mehdi-Abdo/My-Portfolio.git',
